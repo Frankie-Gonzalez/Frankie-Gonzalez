@@ -1,7 +1,7 @@
 # Physics360-Projectile-Motion
 ## Frankie's project idea
 --- 
-My idea for this project is to show the difference in speed and time of a rocket getting launced from Earth compared to getting launced from Mars. 
+My idea for this project is to show the difference in speed and time of a rocket getting launched from Earth compared to getting launched from Mars. 
 ---
 ##**Background/ Motivation**:
 I am motivated to solve this problem because as an engineer i love solving these types of problems that involve space.
