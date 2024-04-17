@@ -12,7 +12,7 @@ It is weaker than Earth's gravity due to the planet's smaller mass. The average 
 ---
 ##**Resources**: 
 [Space X](https://www.spacex.com/), 
-[Earth](https://www.nsf.gov/news/classroom/images/Gravity.pdf), [Mars](https://en.wikipedia.org/wiki/Gravity_of_Mars#:~:text=It%20is%20weaker%20than%20Earth's,of%20Earth)%20and%20it%20varies.)
+[Earth](https://www.nsf.gov/news/classroom/images/Gravity.pdf), [Mars](https://en.wikipedia.org/wiki/Gravity_of_Mars#:~:text=It%20is%20weaker%20than%20Earth's,of%20Earth)
 
 ---
 Objective: The objective is to show the difference in speed and time of a rocket getting launced from Earth compared to getting launced from Mars. The goal is to collect data on the diffrent velocities of the rockets while having the same mass.
