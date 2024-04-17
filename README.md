@@ -12,8 +12,9 @@ It is weaker than Earth's gravity due to the planet's smaller mass. The average 
 ---
 ##**Resources**: 
 [Space X](https://www.spacex.com/), 
-[Earth](https://www.nsf.gov/news/classroom/images/Gravity.pdf), [Mars](https://en.wikipedia.org/wiki/Gravity_of_Mars#:~:text=It%20is%20weaker%20than%20Earth's,of%20Earth)
-
+[Earth](https://www.nsf.gov/news/classroom/images/Gravity.pdf), 
+[Mars](https://en.wikipedia.org/wiki/Gravity_of_Mars#:~:text=It%20is%20weaker%20than%20Earth's,of%20Earth)
+[Projectile Motion](https://phys.libretexts.org/Bookshelves/University_Physics/Physics_(Boundless)/3%3A_Two-Dimensional_Kinematics/3.3%3A_Projectile_Motion#:~:text=The%20maximum%20height%20of%20an,visin%CE%B8g%20.)
 ---
 Objective: The objective is to show the difference in speed and time of a rocket getting launced from Earth compared to getting launced from Mars. The goal is to collect data on the diffrent velocities of the rockets while having the same mass.
 ###1) What is the velocity of the rocket leaving Earth? 2) What is the velocity of the rocket leaving Mars? 3) What is the difference in time as they leave the atmosphere? 4) Does weather play a big factor? 
